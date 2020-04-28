@@ -1,0 +1,20 @@
+//JSON data format
+//@BryanDim
+
+{
+	"hostname": "My ASUS",
+	"vendor": "Cisco",
+	"isAlive": true,
+	"uptime": 947732,
+	"users": {
+		"admin": 11,
+		"storage": 2,
+	}, 
+	"vlans": [
+		{
+			"vlan_name": "VLAN 1",
+			"vlan_id": 23
+		}
+
+	]
+}
